@@ -1,0 +1,1 @@
+document.getElementByDi("resultadoSuma").innerHTML= 1+2;
